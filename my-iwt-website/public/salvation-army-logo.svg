@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" role="img" aria-label="The Salvation Army">
+  <defs>
+    <linearGradient id="shield-red" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e01830"/>
+      <stop offset="100%" stop-color="#c8102e"/>
+    </linearGradient>
+  </defs>
+  <path d="M60 4 L108 28 V72 C108 102 84 124 60 136 C36 124 12 102 12 72 V28 Z" fill="url(#shield-red)" stroke="#ffc72c" stroke-width="6"/>
+  <path d="M60 24 C44 24 32 36 32 52 C32 68 44 80 60 80 C76 80 88 68 88 52 C88 36 76 24 60 24 Z" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M60 34 V70 M44 52 H76" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+</svg>
